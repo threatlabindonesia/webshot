@@ -35,7 +35,7 @@ Designed to scale from 1 to tens of thousands of targets with high performance.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/webshot-checker.git
+git clone https://github.com/threatlabindonesia/webshot.git
 cd webshot-checker
 ```
 
